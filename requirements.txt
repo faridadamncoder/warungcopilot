@@ -1,0 +1,3 @@
+# Hanya dependensi mode LLM. Demo aturan jalan tanpa install apa pun
+# selain Python 3 standar, tapi openai tetap dicantumkan di sini.
+openai>=1.0.0
